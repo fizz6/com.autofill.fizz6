@@ -1,0 +1,17 @@
+{
+    "name": "fizz6.autofill.tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f999953bd62d92840a33101d30d133bd",
+        "GUID:db889dbcb7e6cef498a5763be8911994"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
