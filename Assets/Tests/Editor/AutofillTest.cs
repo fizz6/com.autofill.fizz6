@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Fizz6.Autofill.Test
+namespace Fizz6.Autofill.Tests.Editor
 {
     public class AutofillTest : MonoBehaviour
     {
